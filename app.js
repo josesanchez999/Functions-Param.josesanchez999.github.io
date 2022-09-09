@@ -16,6 +16,7 @@ let obj = {
   console.log(obj)
   
   obj.college = 'NVC';
+  console.log('My Information!');
   console.log(obj);
 
   let btn = document.createElement("button");
